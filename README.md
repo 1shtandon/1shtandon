@@ -1,22 +1,19 @@
-### Hi there 👋
+<div align="center">
+  
+| About                                                                                                                                          | Top Languages                                                                                                     |
+|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| • 👋 Hi, I’m Vansh Tandon.<br>• 👀 I’m interested in Web Development,Data Science, Machine Learning and a lot more.<br>• 🌱 I’m currently learning.<br>• 💞️ I’m looking to collaborate on various topics like Web development ,Data Science or DSA.<br>• | ![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JanmayHem&theme=tokyonight&show_icons=true) |
 
-<!--
-**1shtandon/1shtandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|     Stats                                                                                                         |     Streak                                                                                              |
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| ![1shtandon's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=1shtandon&theme=tokyonight&show_icons=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=1shtandon&theme=tokyonight)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Overall Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=1shtandon&count_private=true&show_icons=true&hide=contribs&theme=dracula)
-
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1shtandon&theme=dracula&layout=compact&hide=html)
+<!-- <img src="https://github.com/1shtandon/1shtandon/blob/main/NUX_Octodex.gif" width="250" height="250" style="border-radius:50%"/> -->
+[![Vansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=1shtandon&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- github-compacet, tokyo-night -->
+  
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,react,html,css,javascript,java,linkedin,matlab,mysql,py,tensorflow)](https://skillicons.dev)
+  <br>![](https://komarev.com/ghpvc/?username=1shtandon&color=green)
+<!--   <br>![](https://hit.yhype.me/github/profile?user_id=77008411) -->
+</div>
 

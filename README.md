@@ -12,7 +12,7 @@
 [![Vansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=1shtandon&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- github-compacet, tokyo-night -->
   
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,react,html,css,javascript,java,linkedin,matlab,mysql,py,tensorflow)]
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,react,html,css,javascript,java,linkedin,matlab,mysql,py,tensorflow)]()
   
   <p align="center">
 

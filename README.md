@@ -12,8 +12,17 @@
 [![Vansh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=1shtandon&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- github-compacet, tokyo-night -->
   
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,react,html,css,javascript,java,linkedin,matlab,mysql,py,tensorflow)](https://skillicons.dev)
-  <br>![](https://komarev.com/ghpvc/?username=1shtandon&color=green)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,react,html,css,javascript,java,linkedin,matlab,mysql,py,tensorflow)]
+  
+  <p align="center">
+
+  <br>
+  <b>GitHub Visitors</b>
+  <br>
+  <img alt="Page counter" src="https://profile-counter.glitch.me/1shtandon/count.svg">
+</p>
+
+
 <!--   <br>![](https://hit.yhype.me/github/profile?user_id=77008411) -->
 </div>
 
